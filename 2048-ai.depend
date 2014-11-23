@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1416758924 source:c:\users\akash\documents\github\2048-ai\board.cpp
+	<cstdlib>
+	<vector>
+	"board.h"
+
+1416758923 c:\users\akash\documents\github\2048-ai\board.h
+	<iostream>
+	<string>
+	<vector>
+	<cstring>
+	<cstdlib>
+
+1416760908 source:c:\users\akash\documents\github\2048-ai\expectimax.cpp
+	"expectimax.h"
+
+1416758833 c:\users\akash\documents\github\2048-ai\expectimax.h
+	<vector>
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<utility>
+	"board.h"
+
