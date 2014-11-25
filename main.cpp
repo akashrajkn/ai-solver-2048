@@ -44,10 +44,10 @@ int main()
     }
 
     direction = findBestDirection( br.cells[0], br.cells[1], br.cells[2], br.cells[3],
-                                  br.cells[4], br.cells[5], br.cells[6], br.cells[7],
-                                  br.cells[8], br.cells[9], br.cells[10],br.cells[11],
-                                  br.cells[12],br.cells[13],br.cells[14],br.cells[15],
-                                  3 );
+                                   br.cells[4], br.cells[5], br.cells[6], br.cells[7],
+                                   br.cells[8], br.cells[9], br.cells[10],br.cells[11],
+                                   br.cells[12],br.cells[13],br.cells[14],br.cells[15],
+                                   3 );
 
     cout<<"direction=="<<direction<<"\n";
 
